@@ -1,0 +1,6 @@
+names.txt
+log/
+logs.txt
+*.logs
+/bin
+*.bin
