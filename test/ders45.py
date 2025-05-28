@@ -7,4 +7,6 @@ def isPowTwo(num) -> bool:
     return False
 
 print(isPowTwo(0))
-print("umut")
+
+print("ılovepython")
+print("ıalsolovegit")
