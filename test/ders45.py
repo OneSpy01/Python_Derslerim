@@ -9,3 +9,4 @@ def isPowTwo(num) -> bool:
 print(isPowTwo(0))
 
 print("ılovepython")
+print("ıalsolovegit")
