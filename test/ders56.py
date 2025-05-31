@@ -6,3 +6,4 @@ print("umut")
 
 
 print("taha loves python")
+print("taha also loves hacking") 
