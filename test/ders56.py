@@ -3,3 +3,6 @@ def do_stuff(num):
 print(do_stuff(10))
 
 print("umut")
+
+
+print("taha loves python")
